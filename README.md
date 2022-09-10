@@ -1,4 +1,4 @@
-# Coding UI Design Trends
+# Learning to Implement Latest UI Design Trends in Baby Steps
 
 In this repo we will learn how to code and build and code user interfaces that follow the latest design trends. The base technology we will be using is React, Next.js, Chakra UI, Framer Motion, etc. 
 
