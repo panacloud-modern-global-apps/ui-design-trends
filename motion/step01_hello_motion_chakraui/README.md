@@ -2,6 +2,12 @@
 
 [We will follow this](https://chakra-ui.com/getting-started/with-framer)
 
+[Container Docs](https://chakra-ui.com/docs/components/container)
+
+[Chakra factory function](https://chakra-ui.com/docs/styled-system/chakra-factory#chakra-factory-function)
+
+[More on Chakra Factory Function](https://chakra-ui.com/community/recipes/as-prop#option-3-use-the-chakra-factory-function)
+
 npx create-next-app step01_hello_motion_chakraui --ts
 
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
