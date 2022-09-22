@@ -2,9 +2,13 @@
 
 [We will follow this](https://blog.logrocket.com/framer-motion-tutorial/)
 
+[Also go through these docs](https://www.framer.com/docs/introduction/)
+
 npx create-next-app step00_hello_motion --ts
 
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+Note: In this step to start our learning, we will not be animating Chakra UI components but only Html elements.
 
 npm run dev
 

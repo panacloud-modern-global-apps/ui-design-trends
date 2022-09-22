@@ -2,6 +2,8 @@
 
 [We will follow this](https://chakra-ui.com/getting-started/with-framer)
 
+Note: It is important to note that we dont use "as" prop but "chakra factory function" method because in "use" method if there are props with the same name as the chakra props, they take precedence over the framer motion props. For example, a transition will take precedence over a framer motion prop and the framer motion feature will not work.
+
 [Container Docs](https://chakra-ui.com/docs/components/container)
 
 [Chakra factory function](https://chakra-ui.com/docs/styled-system/chakra-factory#chakra-factory-function)
