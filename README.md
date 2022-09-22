@@ -16,3 +16,7 @@ In this repo we will learn how to code and build and code user interfaces that f
 
 [React UI Boutique](https://reactui.boutique/)
 
+## Design Text Book
+
+[Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
+
