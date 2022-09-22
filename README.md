@@ -2,6 +2,8 @@
 
 [The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
 
+[Complete these Chakra UI projects](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects/) before starting to learn latest UI Design Trends.
+
 In this repo we will learn how to code and build and code user interfaces that follow the latest design trends. The base technology we will be using is React, Next.js, Chakra UI, Framer Motion, etc. 
 
 [11 Modern Website Design Trends to Know for 2023](https://www.leadpages.com/blog/website-design-trends/)
