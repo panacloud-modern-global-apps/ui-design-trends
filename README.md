@@ -2,6 +2,8 @@
 
 In this repo we will learn how to code and build and code user interfaces that follow the latest design trends. The base technology we will be using is React, Next.js, Chakra UI, Framer Motion, etc. 
 
+[11 Modern Website Design Trends to Know for 2023](https://www.leadpages.com/blog/website-design-trends/)
+
 [12 UI Design Trends for Web and Mobile We Started 2022 With](https://design4users.com/hot-ui-design-trends/)
 
 [12 Leading UI/UX Design Trends to Dominate in 2022](https://fireart.studio/blog/10-leading-ui-ux-design-trends-to-dominate-in-2021/)
