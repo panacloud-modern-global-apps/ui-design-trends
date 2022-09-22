@@ -1,5 +1,7 @@
 # Learning to Implement Latest UI Design Trends in Baby Steps
 
+[The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
+
 In this repo we will learn how to code and build and code user interfaces that follow the latest design trends. The base technology we will be using is React, Next.js, Chakra UI, Framer Motion, etc. 
 
 [11 Modern Website Design Trends to Know for 2023](https://www.leadpages.com/blog/website-design-trends/)
